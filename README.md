@@ -1,3 +1,22 @@
+#更新
+
+1、将查询到的内容保存成文件。
+
+2、遍历所有数据库。
+
+3、排除mysql默认的几个库
+```
+mysql
+information_schema
+sys
+performance_schema
+innodb_sys_data
+innodb_sys_undo
+```
+
+
+
+
 # 泰式摸骨
 
 ## 项目目的
